@@ -1,0 +1,15 @@
+/Users/alexandermorozov/KIP/Практическая № 4/bin/Debug/net9.0/Практическая № 4
+/Users/alexandermorozov/KIP/Практическая № 4/bin/Debug/net9.0/Практическая № 4.deps.json
+/Users/alexandermorozov/KIP/Практическая № 4/bin/Debug/net9.0/Практическая № 4.runtimeconfig.json
+/Users/alexandermorozov/KIP/Практическая № 4/bin/Debug/net9.0/Практическая № 4.dll
+/Users/alexandermorozov/KIP/Практическая № 4/bin/Debug/net9.0/Практическая № 4.pdb
+/Users/alexandermorozov/KIP/Практическая № 4/obj/Debug/net9.0/Практическая № 4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandermorozov/KIP/Практическая № 4/obj/Debug/net9.0/Практическая № 4.AssemblyInfoInputs.cache
+/Users/alexandermorozov/KIP/Практическая № 4/obj/Debug/net9.0/Практическая № 4.AssemblyInfo.cs
+/Users/alexandermorozov/KIP/Практическая № 4/obj/Debug/net9.0/Практическая № 4.csproj.CoreCompileInputs.cache
+/Users/alexandermorozov/KIP/Практическая № 4/obj/Debug/net9.0/Практическая № 4.sourcelink.json
+/Users/alexandermorozov/KIP/Практическая № 4/obj/Debug/net9.0/Практическая № 4.dll
+/Users/alexandermorozov/KIP/Практическая № 4/obj/Debug/net9.0/refint/Практическая № 4.dll
+/Users/alexandermorozov/KIP/Практическая № 4/obj/Debug/net9.0/Практическая № 4.pdb
+/Users/alexandermorozov/KIP/Практическая № 4/obj/Debug/net9.0/Практическая № 4.genruntimeconfig.cache
+/Users/alexandermorozov/KIP/Практическая № 4/obj/Debug/net9.0/ref/Практическая № 4.dll
