@@ -1,0 +1,14 @@
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/bin/Debug/net9.0/MyAwesomeApp
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/bin/Debug/net9.0/MyAwesomeApp.deps.json
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/bin/Debug/net9.0/MyAwesomeApp.runtimeconfig.json
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/bin/Debug/net9.0/MyAwesomeApp.dll
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/bin/Debug/net9.0/MyAwesomeApp.pdb
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/obj/Debug/net9.0/MyAwesomeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/obj/Debug/net9.0/MyAwesomeApp.AssemblyInfoInputs.cache
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/obj/Debug/net9.0/MyAwesomeApp.AssemblyInfo.cs
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/obj/Debug/net9.0/MyAwesomeApp.csproj.CoreCompileInputs.cache
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/obj/Debug/net9.0/MyAwesomeApp.dll
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/obj/Debug/net9.0/refint/MyAwesomeApp.dll
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/obj/Debug/net9.0/MyAwesomeApp.pdb
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/obj/Debug/net9.0/MyAwesomeApp.genruntimeconfig.cache
+/Users/alexandermorozov/Desktop/mods/MyAwesomeApp/obj/Debug/net9.0/ref/MyAwesomeApp.dll
