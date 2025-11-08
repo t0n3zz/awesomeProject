@@ -1,0 +1,14 @@
+/home/alexandr/Pr6/bin/Debug/net8.0/Pr6
+/home/alexandr/Pr6/bin/Debug/net8.0/Pr6.deps.json
+/home/alexandr/Pr6/bin/Debug/net8.0/Pr6.runtimeconfig.json
+/home/alexandr/Pr6/bin/Debug/net8.0/Pr6.dll
+/home/alexandr/Pr6/bin/Debug/net8.0/Pr6.pdb
+/home/alexandr/Pr6/obj/Debug/net8.0/Pr6.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandr/Pr6/obj/Debug/net8.0/Pr6.AssemblyInfoInputs.cache
+/home/alexandr/Pr6/obj/Debug/net8.0/Pr6.AssemblyInfo.cs
+/home/alexandr/Pr6/obj/Debug/net8.0/Pr6.csproj.CoreCompileInputs.cache
+/home/alexandr/Pr6/obj/Debug/net8.0/Pr6.dll
+/home/alexandr/Pr6/obj/Debug/net8.0/refint/Pr6.dll
+/home/alexandr/Pr6/obj/Debug/net8.0/Pr6.pdb
+/home/alexandr/Pr6/obj/Debug/net8.0/Pr6.genruntimeconfig.cache
+/home/alexandr/Pr6/obj/Debug/net8.0/ref/Pr6.dll
