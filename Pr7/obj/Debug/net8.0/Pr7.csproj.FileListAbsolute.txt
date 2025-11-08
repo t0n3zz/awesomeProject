@@ -1,0 +1,14 @@
+/home/alexandr/Pr7/bin/Debug/net8.0/Pr7
+/home/alexandr/Pr7/bin/Debug/net8.0/Pr7.deps.json
+/home/alexandr/Pr7/bin/Debug/net8.0/Pr7.runtimeconfig.json
+/home/alexandr/Pr7/bin/Debug/net8.0/Pr7.dll
+/home/alexandr/Pr7/bin/Debug/net8.0/Pr7.pdb
+/home/alexandr/Pr7/obj/Debug/net8.0/Pr7.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandr/Pr7/obj/Debug/net8.0/Pr7.AssemblyInfoInputs.cache
+/home/alexandr/Pr7/obj/Debug/net8.0/Pr7.AssemblyInfo.cs
+/home/alexandr/Pr7/obj/Debug/net8.0/Pr7.csproj.CoreCompileInputs.cache
+/home/alexandr/Pr7/obj/Debug/net8.0/Pr7.dll
+/home/alexandr/Pr7/obj/Debug/net8.0/refint/Pr7.dll
+/home/alexandr/Pr7/obj/Debug/net8.0/Pr7.pdb
+/home/alexandr/Pr7/obj/Debug/net8.0/Pr7.genruntimeconfig.cache
+/home/alexandr/Pr7/obj/Debug/net8.0/ref/Pr7.dll
