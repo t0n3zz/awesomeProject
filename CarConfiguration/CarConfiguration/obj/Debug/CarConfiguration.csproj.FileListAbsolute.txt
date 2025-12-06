@@ -1,0 +1,14 @@
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\obj\Debug\CarConfiguration.csproj.AssemblyReference.cache
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\obj\Debug\MainWindow.baml
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\obj\Debug\MainWindow.g.cs
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\obj\Debug\App.g.cs
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\obj\Debug\CarConfiguration_MarkupCompile.cache
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\obj\Debug\CarConfiguration.g.resources
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\obj\Debug\CarConfiguration.Properties.Resources.resources
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\obj\Debug\CarConfiguration.csproj.GenerateResource.cache
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\obj\Debug\CarConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\bin\Debug\CarConfiguration.exe.config
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\bin\Debug\CarConfiguration.exe
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\bin\Debug\CarConfiguration.pdb
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\obj\Debug\CarConfiguration.exe
+C:\Users\sdghs\source\repos\CarConfiguration\CarConfiguration\obj\Debug\CarConfiguration.pdb
