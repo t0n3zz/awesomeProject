@@ -1,0 +1,14 @@
+/home/alexandr/Рабочий стол/Pr11/bin/Debug/net10.0/Pr11
+/home/alexandr/Рабочий стол/Pr11/bin/Debug/net10.0/Pr11.deps.json
+/home/alexandr/Рабочий стол/Pr11/bin/Debug/net10.0/Pr11.runtimeconfig.json
+/home/alexandr/Рабочий стол/Pr11/bin/Debug/net10.0/Pr11.dll
+/home/alexandr/Рабочий стол/Pr11/bin/Debug/net10.0/Pr11.pdb
+/home/alexandr/Рабочий стол/Pr11/obj/Debug/net10.0/Pr11.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandr/Рабочий стол/Pr11/obj/Debug/net10.0/Pr11.AssemblyInfoInputs.cache
+/home/alexandr/Рабочий стол/Pr11/obj/Debug/net10.0/Pr11.AssemblyInfo.cs
+/home/alexandr/Рабочий стол/Pr11/obj/Debug/net10.0/Pr11.csproj.CoreCompileInputs.cache
+/home/alexandr/Рабочий стол/Pr11/obj/Debug/net10.0/Pr11.dll
+/home/alexandr/Рабочий стол/Pr11/obj/Debug/net10.0/refint/Pr11.dll
+/home/alexandr/Рабочий стол/Pr11/obj/Debug/net10.0/Pr11.pdb
+/home/alexandr/Рабочий стол/Pr11/obj/Debug/net10.0/Pr11.genruntimeconfig.cache
+/home/alexandr/Рабочий стол/Pr11/obj/Debug/net10.0/ref/Pr11.dll
