@@ -1,0 +1,56 @@
+﻿<Page x:Class="Pr14.Pages.SessionPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Pr14.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="SessionPage">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Image Source="{Binding PreviewFilePath}" Stretch="Uniform" VerticalAlignment="Top"/>
+
+        <StackPanel Grid.Column="1" Margin="20,0,0,0">
+            <TextBlock Text="{Binding Title}" FontSize="32" FontWeight="Bold" TextWrapping="Wrap"/>
+            <TextBlock Text="{Binding Rating, StringFormat='Рейтинг: ⭐ {0}'}" FontSize="18" Foreground="OrangeRed" Margin="0,10"/>
+            <TextBlock Text="{Binding Genres, StringFormat='Жанры: {0}'}" FontStyle="Italic" Margin="0,5"/>
+            <TextBlock Text="{Binding AgeRating, StringFormat='Возрастной ценз: {0}'}" Margin="0,5"/>
+
+            <TextBlock Text="Описание:" FontWeight="Bold" Margin="0,15,0,5"/>
+            <TextBlock Text="{Binding ShortDescription}" TextWrapping="Wrap" FontSize="14"/>
+
+            <Separator Margin="0,20"/>
+
+            <TextBlock Text="Выберите сеанс:" FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <ListBox x:Name="SessionsList" d:ItemsSource="{d:SampleData ItemCount=3}">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="Gray" BorderThickness="1" Margin="5" CornerRadius="5" Padding="10">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding SessionTime}" FontSize="18" FontWeight="Bold" Width="80"/>
+                                <StackPanel Width="150">
+                                    <TextBlock Text="{Binding HallName}" FontWeight="Bold"/>
+                                    <TextBlock Text="{Binding HallType}" FontSize="12" Foreground="Gray"/>
+                                </StackPanel>
+                                <Button Content="Выбрать место" Click="SelectSeat_Click" Tag="{Binding}" Padding="10,5"/>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+
+        <Button Content="Назад к списку" Grid.Row="1" HorizontalAlignment="Left" Click="Back_Click" Padding="15,5"/>
+    </Grid>
+</Page>
